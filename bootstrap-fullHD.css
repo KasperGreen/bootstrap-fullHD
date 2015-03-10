@@ -5,7 +5,12 @@
   display: none !important;
 }
 @media (min-width: 1600px) {
-    
+
+  .container 
+  {
+    width: 1560px;
+  }    
+  
   .visible-hd {
     display: block !important;
   }
@@ -33,10 +38,7 @@
     display: none !important;
   }
   
-    .container 
-  {
-    width: 1560px;
-  }
+
   .col-hd-1, .col-hd-2, .col-hd-3, .col-hd-4, .col-hd-5, .col-hd-6, .col-hd-7, .col-hd-8, .col-hd-9, .col-hd-10, .col-hd-11, .col-hd-12 {
     float: left;
     position: relative;
