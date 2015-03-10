@@ -4,8 +4,10 @@ Full-HD Mod for Bootstrap
 Подключить после css файла бутстрапа
 
 Например
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+<code>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-fullHD.css" rel="stylesheet">
+</code>
 	
 
 В 4 версии Bootstrap появиться своя поддержка больших мониторов, а пока её нет предлагаю то, что есть
