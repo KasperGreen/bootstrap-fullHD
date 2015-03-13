@@ -3,7 +3,7 @@ Full-HD Mod for Bootstrap 3
 
 Подключить после css файла бутстрапа
 
-Например
+Например:
 ```html
 	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-fullHD.css" rel="stylesheet">
