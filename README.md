@@ -1,5 +1,5 @@
 # bootstrap-fullHD
-Full-HD Mod for Bootstrap
+Full-HD Mod for Bootstrap 3
 
 Подключить после css файла бутстрапа
 
@@ -9,8 +9,6 @@ Full-HD Mod for Bootstrap
     <link href="css/bootstrap-fullHD.css" rel="stylesheet">
 ```
 	
-
-В 4 версии Bootstrap появиться своя поддержка больших мониторов, а пока её нет предлагаю то, что есть
 
 Стили для HD мониторов
 
@@ -22,4 +20,3 @@ col-hd-* (col-hd-6 займёт пол блока)
 
 .container тоже подновлён
 
-Coming soon
