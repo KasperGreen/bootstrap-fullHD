@@ -34,7 +34,7 @@
   .visible-hd-inline-block {
     display: inline-block !important;
   }
-  .hidden-hd {
+  .hidden-lg {
     display: none !important;
   }
   
